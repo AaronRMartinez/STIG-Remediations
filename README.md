@@ -1,1 +1,1 @@
-# STIG-Remediations
+# STIG Remediations Created and Used in "The Cyber Range"
