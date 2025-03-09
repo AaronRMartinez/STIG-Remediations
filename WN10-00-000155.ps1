@@ -22,7 +22,7 @@
 .USAGE
     Put any usage instructions here.
     Example syntax:
-    PS C:\> .\WN10-00-000155
+    PS C:\> .\WN10-00-000155.ps1
 #>
 
 # Check if PowerShell v2 is enabled
