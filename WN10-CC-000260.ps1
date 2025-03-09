@@ -22,7 +22,7 @@
 .USAGE
     Put any usage instructions here.
     Example syntax:
-    PS C:\> .\WN10-CC-000260
+    PS C:\> .\WN10-CC-000260.ps1
 #>
 
 # Define registry path
