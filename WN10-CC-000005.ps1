@@ -1,6 +1,7 @@
 <#
 .SYNOPSIS
     This PowerShell script ensures that camera access from the lock screen is disabled.
+    
     Author          : Aaron Martinez
     LinkedIn        : linkedin.com/in/aaron-m-59725a332/
     GitHub          : github.com/AaronRMartinez
@@ -20,7 +21,7 @@
 .USAGE
     Put any usage instructions here.
     Example syntax:
-    PS C:\> .\WN10-CC-000005
+    PS C:\> .\WN10-CC-000005.ps1
 #>
 
 # Define registry path and value
