@@ -1,6 +1,7 @@
 <#
 .SYNOPSIS
     This PowerShell script ensures that Windows 10 is configured to enable Remote host to allow delegation of non-exportable credentials.
+    
     Author          : Aaron Martinez
     LinkedIn        : linkedin.com/in/aaron-m-59725a332/
     GitHub          : github.com/AaronRMartinez
